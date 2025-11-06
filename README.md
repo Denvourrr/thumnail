@@ -1,0 +1,2 @@
+# thumnail
+create a thumbnail
